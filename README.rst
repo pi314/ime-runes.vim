@@ -1,5 +1,5 @@
 ===============================================================================
-ime-runes
+ime-runes.vim
 ===============================================================================
 A runic alphabets input plugin for `pi314/ime.vim <https://github.com/pi314/ime.vim>`_
 
@@ -14,6 +14,6 @@ After installation, please add ``'runes'`` to ``g:ime_plugins`` ::
 
 Usage
 -------------------------------------------------------------------------------
-* ``runes.`` generates ``ᚱᚢᚾᛖᛊ᛫``.
+* Just type. ``runes.`` generates ``ᚱᚢᚾᛖᛊ᛫``.
 
 Capitalized alphabet is not supported.
